@@ -341,3 +341,13 @@ background-color: #2f3640;
     bottom: -50px;
     
 }
+.online_status_dots{
+    color: #25D366;
+}
+.offline_status{
+    color: red;
+}
+/* li{
+    display: flex;
+    justify-content: space-between;
+} */
